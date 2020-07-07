@@ -1,0 +1,23 @@
+.container {
+   margin-bottom: 100px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+    
+    
+}
+.buy-button {
+    border: none;
+    background-color: black;
+    border-radius: 8px;
+    color: white;
+    
+}
+.middle-text{
+    color: orange;
+    padding-top: 20px;
+}
+.card-footer{
+    text-align: center;
+}
